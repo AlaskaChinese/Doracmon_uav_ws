@@ -1,0 +1,27 @@
+(cl:defpackage airsim_ros-msg
+  (:use )
+  (:export
+   "<ALTIMETER>"
+   "ALTIMETER"
+   "<CARCONTROLS>"
+   "CARCONTROLS"
+   "<CARSTATE>"
+   "CARSTATE"
+   "<ENVIRONMENT>"
+   "ENVIRONMENT"
+   "<GPSYAW>"
+   "GPSYAW"
+   "<GIMBALANGLEEULERCMD>"
+   "GIMBALANGLEEULERCMD"
+   "<GIMBALANGLEQUATCMD>"
+   "GIMBALANGLEQUATCMD"
+   "<POSECMD>"
+   "POSECMD"
+   "<ROTORPWM>"
+   "ROTORPWM"
+   "<VELCMD>"
+   "VELCMD"
+   "<VELCMDGROUP>"
+   "VELCMDGROUP"
+  ))
+

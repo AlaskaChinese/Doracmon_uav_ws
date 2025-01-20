@@ -1,0 +1,3 @@
+<launch>
+  <node name="uav_takeoff_node" pkg="uav_takeoff" type="uav_takeoff_node" output="screen" />
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/alaska/basic_dev/devel
+
+Name: uav_takeoff
+Description: Description of uav_takeoff
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
