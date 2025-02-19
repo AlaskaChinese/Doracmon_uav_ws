@@ -1,4 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <launch>
-  <!-- 启动 uav_flight_node 节点，并将控制信息输出到屏幕 -->
-  <node name="uav_flight_node" pkg="uav_flight" type="uav_flight_node" output="screen"/>
+    <node name="uav_flight_node" pkg="uav_flight" type="uav_flight_node" output="screen"/>
 </launch>

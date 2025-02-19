@@ -114,10 +114,6 @@ airsim_ros/Land.h
 airsim_ros/VelCmd.h
 /home/alaska/basic_dev/src/uav_flight/include/uav_flight/airsim_ros/VelCmd.h
 
-/home/alaska/basic_dev/src/uav_flight/src/uav_flight.cpp
-uav_flight/uav_flight.hpp
-/home/alaska/basic_dev/src/uav_flight/src/uav_flight/uav_flight.hpp
-
 /home/alaska/basic_dev/src/uav_flight/src/uav_flight_node.cpp
 ros/ros.h
 /home/alaska/basic_dev/src/uav_flight/src/ros/ros.h
