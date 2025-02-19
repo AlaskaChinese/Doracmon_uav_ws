@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/alaska/basic_dev/build
 include airsim_ros/CMakeFiles/_airsim_ros_generate_messages_check_deps_GimbalAngleQuatCmd.dir/progress.make
 
 airsim_ros/CMakeFiles/_airsim_ros_generate_messages_check_deps_GimbalAngleQuatCmd:
-	cd /home/alaska/basic_dev/build/airsim_ros && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py airsim_ros /home/alaska/basic_dev/src/airsim_ros/msg/GimbalAngleQuatCmd.msg std_msgs/Header:geometry_msgs/Quaternion
+	cd /home/alaska/basic_dev/build/airsim_ros && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py airsim_ros /home/alaska/basic_dev/src/airsim_ros/msg/GimbalAngleQuatCmd.msg geometry_msgs/Quaternion:std_msgs/Header
 
 _airsim_ros_generate_messages_check_deps_GimbalAngleQuatCmd: airsim_ros/CMakeFiles/_airsim_ros_generate_messages_check_deps_GimbalAngleQuatCmd
 _airsim_ros_generate_messages_check_deps_GimbalAngleQuatCmd: airsim_ros/CMakeFiles/_airsim_ros_generate_messages_check_deps_GimbalAngleQuatCmd.dir/build.make

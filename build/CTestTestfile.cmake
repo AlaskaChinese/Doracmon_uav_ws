@@ -7,4 +7,5 @@
 subdirs("gtest")
 subdirs("airsim_ros")
 subdirs("basic_dev")
+subdirs("uav_flight")
 subdirs("uav_takeoff")

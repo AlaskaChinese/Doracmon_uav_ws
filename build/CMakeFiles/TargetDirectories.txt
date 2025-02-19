@@ -173,6 +173,14 @@
 /home/alaska/basic_dev/build/basic_dev/CMakeFiles/rebuild_cache.dir
 /home/alaska/basic_dev/build/basic_dev/CMakeFiles/topic_tools_generate_messages_nodejs.dir
 /home/alaska/basic_dev/build/basic_dev/CMakeFiles/tf_generate_messages_cpp.dir
+/home/alaska/basic_dev/build/uav_flight/CMakeFiles/install/strip.dir
+/home/alaska/basic_dev/build/uav_flight/CMakeFiles/install/local.dir
+/home/alaska/basic_dev/build/uav_flight/CMakeFiles/install.dir
+/home/alaska/basic_dev/build/uav_flight/CMakeFiles/list_install_components.dir
+/home/alaska/basic_dev/build/uav_flight/CMakeFiles/rebuild_cache.dir
+/home/alaska/basic_dev/build/uav_flight/CMakeFiles/edit_cache.dir
+/home/alaska/basic_dev/build/uav_flight/CMakeFiles/test.dir
+/home/alaska/basic_dev/build/uav_flight/CMakeFiles/uav_flight_node.dir
 /home/alaska/basic_dev/build/uav_takeoff/CMakeFiles/install/strip.dir
 /home/alaska/basic_dev/build/uav_takeoff/CMakeFiles/install/local.dir
 /home/alaska/basic_dev/build/uav_takeoff/CMakeFiles/install.dir

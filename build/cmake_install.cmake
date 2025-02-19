@@ -133,6 +133,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/alaska/basic_dev/build/gtest/cmake_install.cmake")
   include("/home/alaska/basic_dev/build/airsim_ros/cmake_install.cmake")
   include("/home/alaska/basic_dev/build/basic_dev/cmake_install.cmake")
+  include("/home/alaska/basic_dev/build/uav_flight/cmake_install.cmake")
   include("/home/alaska/basic_dev/build/uav_takeoff/cmake_install.cmake")
 
 endif()

@@ -1,2 +1,2 @@
-airsim_ros:basic_dev:uav_takeoff
+airsim_ros:basic_dev:uav_flight:uav_takeoff
 -DCATKIN_DEVEL_PREFIX=/home/alaska/basic_dev/devel -DCMAKE_INSTALL_PREFIX=/home/alaska/basic_dev/install -G Unix Makefiles

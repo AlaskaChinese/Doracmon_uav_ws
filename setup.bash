@@ -1,4 +1,4 @@
 #!/bin/bash
-cd /home/basic_dev
+cd ~/basic_dev
 source ./devel/setup.bash
-rosrun basic_dev basic_dev
+roslaunch uav_takeoff uav_takeoff.launch

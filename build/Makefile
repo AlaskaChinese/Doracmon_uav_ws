@@ -1897,6 +1897,19 @@ tf_generate_messages_cpp/fast:
 .PHONY : tf_generate_messages_cpp/fast
 
 #=============================================================================
+# Target rules for targets named uav_flight_node
+
+# Build rule for target.
+uav_flight_node: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 uav_flight_node
+.PHONY : uav_flight_node
+
+# fast build rule for target.
+uav_flight_node/fast:
+	$(MAKE) -f uav_flight/CMakeFiles/uav_flight_node.dir/build.make uav_flight/CMakeFiles/uav_flight_node.dir/build
+.PHONY : uav_flight_node/fast
+
+#=============================================================================
 # Target rules for targets named uav_takeoff_node
 
 # Build rule for target.
@@ -2055,6 +2068,7 @@ help:
 	@echo "... topic_tools_generate_messages_eus"
 	@echo "... topic_tools_generate_messages_nodejs"
 	@echo "... tf_generate_messages_cpp"
+	@echo "... uav_flight_node"
 	@echo "... uav_takeoff_node"
 .PHONY : help
 

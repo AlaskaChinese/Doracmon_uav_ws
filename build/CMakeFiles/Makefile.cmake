@@ -20,6 +20,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "catkin/catkin_generated/version/package.cmake"
   "catkin_generated/installspace/_setup_util.py"
   "catkin_generated/order_packages.cmake"
+  "uav_flight/catkin_generated/ordered_paths.cmake"
+  "uav_flight/catkin_generated/package.cmake"
   "uav_takeoff/catkin_generated/ordered_paths.cmake"
   "uav_takeoff/catkin_generated/package.cmake"
   "/home/alaska/basic_dev/devel/share/airsim_ros/cmake/airsim_ros-msg-extras.cmake"
@@ -31,6 +33,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/alaska/basic_dev/src/airsim_ros/package.xml"
   "/home/alaska/basic_dev/src/basic_dev/CMakeLists.txt"
   "/home/alaska/basic_dev/src/basic_dev/package.xml"
+  "/home/alaska/basic_dev/src/uav_flight/CMakeLists.txt"
+  "/home/alaska/basic_dev/src/uav_flight/package.xml"
   "/home/alaska/basic_dev/src/uav_takeoff/CMakeLists.txt"
   "/home/alaska/basic_dev/src/uav_takeoff/package.xml"
   "/opt/ros/noetic/share/actionlib/cmake/actionlib-msg-extras.cmake"
@@ -325,6 +329,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "gtest/googletest/CMakeFiles/CMakeDirectoryInformation.cmake"
   "airsim_ros/CMakeFiles/CMakeDirectoryInformation.cmake"
   "basic_dev/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "uav_flight/CMakeFiles/CMakeDirectoryInformation.cmake"
   "uav_takeoff/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
@@ -463,5 +468,6 @@ set(CMAKE_DEPEND_INFO_FILES
   "basic_dev/CMakeFiles/topic_tools_generate_messages_eus.dir/DependInfo.cmake"
   "basic_dev/CMakeFiles/topic_tools_generate_messages_nodejs.dir/DependInfo.cmake"
   "basic_dev/CMakeFiles/tf_generate_messages_cpp.dir/DependInfo.cmake"
+  "uav_flight/CMakeFiles/uav_flight_node.dir/DependInfo.cmake"
   "uav_takeoff/CMakeFiles/uav_takeoff_node.dir/DependInfo.cmake"
   )
