@@ -5,6 +5,10 @@ uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o
  /home/alaska/basic_dev/devel/include/airsim_ros/Land.h
  /home/alaska/basic_dev/devel/include/airsim_ros/LandRequest.h
  /home/alaska/basic_dev/devel/include/airsim_ros/LandResponse.h
+ /home/alaska/basic_dev/devel/include/airsim_ros/Reset.h
+ /home/alaska/basic_dev/devel/include/airsim_ros/ResetRequest.h
+ /home/alaska/basic_dev/devel/include/airsim_ros/ResetResponse.h
+ /home/alaska/basic_dev/devel/include/airsim_ros/RotorPWM.h
  /home/alaska/basic_dev/devel/include/airsim_ros/Takeoff.h
  /home/alaska/basic_dev/devel/include/airsim_ros/TakeoffRequest.h
  /home/alaska/basic_dev/devel/include/airsim_ros/TakeoffResponse.h
@@ -69,12 +73,17 @@ uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o
  /opt/ros/noetic/include/ros/wall_timer.h
  /opt/ros/noetic/include/ros/wall_timer_options.h
  /opt/ros/noetic/include/rosconsole/macros_generated.h
+ /opt/ros/noetic/include/std_msgs/Header.h
  /opt/ros/noetic/include/xmlrpcpp/XmlRpcDecl.h
  /opt/ros/noetic/include/xmlrpcpp/XmlRpcValue.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o
  /home/alaska/basic_dev/devel/include/airsim_ros/Land.h
  /home/alaska/basic_dev/devel/include/airsim_ros/LandRequest.h
  /home/alaska/basic_dev/devel/include/airsim_ros/LandResponse.h
+ /home/alaska/basic_dev/devel/include/airsim_ros/Reset.h
+ /home/alaska/basic_dev/devel/include/airsim_ros/ResetRequest.h
+ /home/alaska/basic_dev/devel/include/airsim_ros/ResetResponse.h
+ /home/alaska/basic_dev/devel/include/airsim_ros/RotorPWM.h
  /home/alaska/basic_dev/devel/include/airsim_ros/Takeoff.h
  /home/alaska/basic_dev/devel/include/airsim_ros/TakeoffRequest.h
  /home/alaska/basic_dev/devel/include/airsim_ros/TakeoffResponse.h
@@ -139,5 +148,6 @@ uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o
  /opt/ros/noetic/include/ros/wall_timer.h
  /opt/ros/noetic/include/ros/wall_timer_options.h
  /opt/ros/noetic/include/rosconsole/macros_generated.h
+ /opt/ros/noetic/include/std_msgs/Header.h
  /opt/ros/noetic/include/xmlrpcpp/XmlRpcDecl.h
  /opt/ros/noetic/include/xmlrpcpp/XmlRpcValue.h

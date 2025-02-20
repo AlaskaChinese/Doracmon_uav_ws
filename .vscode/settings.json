@@ -69,7 +69,11 @@
     "array": "cpp",
     "string": "cpp",
     "string_view": "cpp",
-    "ranges": "cpp"
+    "ranges": "cpp",
+    "bitset": "cpp",
+    "memory": "cpp",
+    "random": "cpp",
+    "optional": "cpp"
   },
   "cmake.sourceDirectory": "/home/alaska/basic_dev/src/uav_takeoff"
 }

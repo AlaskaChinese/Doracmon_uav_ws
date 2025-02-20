@@ -4,6 +4,10 @@
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/Land.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/LandRequest.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/LandResponse.h
+uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/Reset.h
+uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/ResetRequest.h
+uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/ResetResponse.h
+uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/RotorPWM.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/Takeoff.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/TakeoffRequest.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/TakeoffResponse.h
@@ -68,12 +72,17 @@ uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /opt/ros/noetic/
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /opt/ros/noetic/include/ros/wall_timer.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /opt/ros/noetic/include/ros/wall_timer_options.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /opt/ros/noetic/include/rosconsole/macros_generated.h
+uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /opt/ros/noetic/include/std_msgs/Header.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /opt/ros/noetic/include/xmlrpcpp/XmlRpcDecl.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight.cpp.o: /opt/ros/noetic/include/xmlrpcpp/XmlRpcValue.h
 
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/Land.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/LandRequest.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/LandResponse.h
+uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/Reset.h
+uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/ResetRequest.h
+uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/ResetResponse.h
+uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/RotorPWM.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/Takeoff.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/TakeoffRequest.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /home/alaska/basic_dev/devel/include/airsim_ros/TakeoffResponse.h
@@ -138,6 +147,7 @@ uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /opt/ros/no
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /opt/ros/noetic/include/ros/wall_timer.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /opt/ros/noetic/include/ros/wall_timer_options.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /opt/ros/noetic/include/rosconsole/macros_generated.h
+uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /opt/ros/noetic/include/std_msgs/Header.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /opt/ros/noetic/include/xmlrpcpp/XmlRpcDecl.h
 uav_flight/CMakeFiles/uav_flight_node.dir/src/uav_flight_node.cpp.o: /opt/ros/noetic/include/xmlrpcpp/XmlRpcValue.h
 
